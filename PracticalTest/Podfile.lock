@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.4.1)
+  - BSImagePicker (3.3.1)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Kingfisher (5.13.4):
+    - Kingfisher/Core (= 5.13.4)
+  - Kingfisher/Core (5.13.4)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BSImagePicker (~> 3.1)
+  - IQKeyboardManagerSwift (~> 6.5.5)
+  - Kingfisher (~> 5.13.4)
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BSImagePicker
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  BSImagePicker: 0fe04b574d4d6b81093785d2af6c26227efc8428
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: a8534980a1f1316e3b7802b2fbfa517c5fc9a758
+
+COCOAPODS: 1.10.0.beta.2
